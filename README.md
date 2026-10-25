@@ -62,8 +62,6 @@ I enjoy experimenting with new tools, working on practical projects, and learnin
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Machine learning tools"/>
 </p>
 
-**Libraries and tools:** NumPy • Pandas • Matplotlib • Scikit-learn • Google Colab • Streamlit
-
 ### 🗄️ Database & Backend
 
 <p>
