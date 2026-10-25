@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rohit Singh
 
-### 🎓 CSE Data Science Student | Aspiring Software Engineer | AI/ML Enthusiast
+### 🎓 CSE Data Science Student | Building Real-World Projects | AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05032&center=true&vCenter=true&width=750&lines=Building+Projects+That+Solve+Real+Problems;Exploring+AI%2C+Machine+Learning+%26+Data+Science;Learning+DSA+and+Full+Stack+Development;Turning+Ideas+Into+Working+Applications" alt="Typing SVG" />
 
@@ -26,12 +26,12 @@
 
 ## ⚡ About Me
 
-Hey! I'm Rohit, a Computer Science student specializing in **Data Science**, interested in software development, AI/ML, and building useful technology.
+Hey! I'm Rohit, a Computer Science student specializing in **Data Science**, interested in Building Real-World Projects, AI/ML, and building useful technology.
 
 I enjoy experimenting with new tools, working on practical projects, and learning by building things from scratch.
 
 - 🔭 **Currently working on:** AgentCraft, JobPlanner, and other AI-powered applications.
-- 🌱 **Currently learning:** C++, Data Structures & Algorithms, Machine Learning, and full-stack development.
+- 🌱 **Currently learning:** C++, Data Structures & Algorithms and Machine Learning.
 - 👯 **Looking to collaborate on:** AI/ML projects, hackathons, open-source software, and innovative web applications.
 - 🤖 **Interested in:** Artificial Intelligence, Data Science, Cybersecurity, and Cloud Computing.
 - 💬 **Ask me about:** C++, Python, beginner-level DSA, Git/GitHub, and my projects.
@@ -152,20 +152,6 @@ I enjoy experimenting with new tools, working on practical projects, and learnin
 </div>
 
 <br/>
-
-## 🐍 Contribution History
-
-<div align="center">
-
-<p>Every contribution is another step forward. Keep building! 🚀</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhrohit09/singhrohit09/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhrohit09/singhrohit09/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/singhrohit09/singhrohit09/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
 
 <br/>
 
